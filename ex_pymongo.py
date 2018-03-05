@@ -1,4 +1,4 @@
-from pymongo import MongoClient
+from ex_pymongo import MongoClient
 mongo_client = MongoClient()
 db = mongo_client.mydb2
 coll = db.users

@@ -1,6 +1,6 @@
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
+import ex_pandas as pd
+import ex_numpy as np
+import ex_matplotlib.pyplot as plt
 
 
 #Series
